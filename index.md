@@ -31,7 +31,7 @@ I help companies build reliable, scalable, automated systems using modern DevOps
 ### **2. Terraform AWS Infrastructure Setup**
 - VPC, Subnets, EC2, Security Groups  
 - Automated deployment using Terraform Cloud  
-👉 *GitHub Repo:* #
+👉 *GitHub Repo:* [TERRAFORM-PROJECT-USING-ALB-WITH-AWS](https://github.com/Tunesky34/TERRAFORM-PROJECT-USING-ALB-WITH-AWS)
 
 ---
 
