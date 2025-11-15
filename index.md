@@ -43,12 +43,10 @@ I help companies build reliable, scalable, automated systems using modern DevOps
 ---
 
 ### **4. Ansible Automation for Server Configuration (NEW)**
-- Automated installation of Nginx, Docker, Git, and system packages  
-- Used Ansible Playbooks + Inventory  
-- Supports multi-environment deployment (dev/stage/prod)  
-- Improved provisioning time by 80%  
-👉 *GitHub Repo:* #
-
+- Automated installation of Docker and Nginx container using **Ansible**  
+- Supports multi-environment deployment (localhost example)  
+- Showcases configuration management, automation, and container deployment skills  
+👉 *GitHub Repo:* [ansible-nginx-deployment](https://github.com/Tunesky34/ansible-nginx-deployment)
 ---
 
 ## 📊 Architecture Diagrams
