@@ -51,7 +51,8 @@ I help companies build reliable, scalable, automated systems using modern DevOps
 
 ## 📊 Architecture Diagrams
 
-_Add your diagram images later._
+![Ansible Nginx Architecture](https://github.com/Tunesky34/ansible-nginx-deployment/raw/main/ansible-nginx-architecture.png)
+
 
 ---
 
