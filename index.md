@@ -1,8 +1,7 @@
-# 👋 Hi, I'm Kareem Sodiq Babatunde  
+👋 Hi, I'm Kareem Sodiq Babatunde  
 ### DevOps & Cloud Engineer | Automation | CI/CD | Cloud Infrastructure
 
-I help companies build reliable, scalable, automated systems using modern DevOps tools and cloud technologies.
-
+I help teams build reliable, scalable, and automated systems using modern DevOps practices and cloud technologies. I specialize in creating solutions that improve deployment speed, system stability, and operational efficiency.
 ---
 
 ## 🔧 Skills & Technologies
