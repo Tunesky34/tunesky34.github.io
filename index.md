@@ -24,7 +24,7 @@ I help companies build reliable, scalable, automated systems using modern DevOps
 - End-to-end CI/CD using GitHub Actions  
 - Dockerized app with automated tests  
 - Deployment to AWS  
-👉 *GitHub Repo:* #
+👉 *GitHub Repo:* [Jenkins-image](https://github.com/Tunesky34/Jenkins-image)
 
 ---
 
@@ -34,25 +34,28 @@ I help companies build reliable, scalable, automated systems using modern DevOps
 👉 *GitHub Repo:* [TERRAFORM-PROJECT-USING-ALB-WITH-AWS](https://github.com/Tunesky34/TERRAFORM-PROJECT-USING-ALB-WITH-AWS)
 
 ---
+### **3. Docker Containerization Project (NEW)
+- Built production-grade Dockerfiles for multi-environment applications
+- Implemented Docker Compose to run multi-container apps (backend, frontend, database)
+- Optimized image size using multi-stage builds
+- Added best practices: non-root user, caching, minimal base images
+- Tested and deployed container images across local, cloud, and CI/CD systems
+👉 GitHub Repo: [DOCKERIZED-WORDPRESS-SITE](https://github.com/Tunesky34/DOCKERIZED-WORDPRESS-SITE)
 
-### **3. Kubernetes Deployment of Python App**
+---
+
+### **4. Kubernetes Deployment of Python App**
 - Dockerized Python app  
 - Kubernetes manifests (Deployment, Service, Ingress)  
 👉 *GitHub Repo:* #
 
 ---
 
-### **4. Ansible Automation for Server Configuration (NEW)**
+### **5. Ansible Automation for Server Configuration (NEW)**
 - Automated installation of Docker and Nginx container using **Ansible**  
 - Supports multi-environment deployment (localhost example)  
 - Showcases configuration management, automation, and container deployment skills  
 👉 *GitHub Repo:* [ansible-nginx-deployment](https://github.com/Tunesky34/ansible-nginx-deployment)
----
-
-## 📊 Architecture Diagrams
-
-![Ansible Nginx Architecture](https://github.com/Tunesky34/ansible-nginx-deployment/raw/main/ansible-nginx-architecture.png)
-
 
 ---
 
