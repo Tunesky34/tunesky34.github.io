@@ -1,84 +1,62 @@
-Hi, I'm Kareem Sodiq Babatunde
+Kareem Sodiq Babatunde
 
-DevOps & Cloud Engineer focused on building scalable infrastructure, automated CI/CD pipelines, and reliable cloud environments.
+DevOps & Cloud Engineer · AWS · Terraform · Docker · Kubernetes · CI/CD
 
-I work with modern DevOps tools to help teams deploy applications faster, improve system reliability, and automate operational workflows.
+I build the infrastructure and automation that let teams ship software quickly and safely: repeatable cloud environments, pipelines that test and deploy on every commit, and containerised workloads that behave the same everywhere.
 
-My experience includes cloud infrastructure on AWS, containerization with Docker, infrastructure as code using Terraform, and automation with Ansible.
----
+ Lagos, Nigeria ·  tunesky34@gmail.com · LinkedIn: https://www.linkedin.com/in/kareem-cloud-solutions-460973245/
 
-## Skills & Technologies
+What I do
+Automate delivery. CI/CD pipelines with GitHub Actions and Jenkins, from commit to tested image to deployment.
+Codify infrastructure. AWS environments (VPC, subnets, EC2, ALB, security groups) defined in Terraform, so they can be reviewed, versioned and rebuilt.
+Containerise and orchestrate. Production-minded Docker images and Compose stacks, plus Kubernetes deployments.
+Configure at scale. Server provisioning and configuration management with Ansible.
 
-Cloud: AWS
-DevOps: CI/CD, GitHub Actions, Jenkins
-Automation: Ansible
-Containers: Docker
-IaC: Terraform
-Monitoring: CloudWatch
-Scripting: Bash
-Version Control: Git, GitHub
+Skills & tools
+Area	Tools
+Cloud	AWS (EC2, VPC, ALB, CloudWatch)
+CI/CD	GitHub Actions, Jenkins
+Infrastructure as Code	Terraform (including Terraform Cloud)
+Configuration management	Ansible
+Containers & orchestration	Docker, Docker Compose, Kubernetes
+Observability	CloudWatch, Grafana, Loki
+Scripting & VCS	Bash, Git, GitHub
+Systems	Linux administration
 
----
+Featured projects
+1. Nomad + Consul deployment pipeline with centralised logging
 
-## Projects
+Containerised app built and tested in GitHub Actions, published to GHCR, and deployed to a Nomad and Consul cluster, with logs shipped through Promtail and Loki into Grafana. Stack: GitHub Actions · GHCR · Nomad · Consul · Loki · Promtail · Grafana 🔗 devops-intern-final
 
-### **1. CI/CD Pipeline for Node.js App**
-- End-to-end CI/CD using Jenkins  
-- Dockerized app with automated tests  
-- Deployment to AWS  
-👉 *GitHub Repo:* https://github.com/Tunesky34/Jenkins-image
+2. CI/CD pipeline for a Node.js app
 
----
+End-to-end Jenkins pipeline: the app is built into a Docker image, tested automatically, and deployed to AWS. Stack: Jenkins · Docker · Node.js · AWS 🔗 Jenkins-image
 
-### **2. Terraform AWS Infrastructure Setup**
-- VPC, Subnets, EC2, Security Groups  
-- Automated deployment using Terraform Cloud  
-👉 *GitHub Repo:* [TERRAFORM-PROJECT-USING-ALB-WITH-AWS](https://github.com/Tunesky34/TERRAFORM-PROJECT-USING-ALB-WITH-AWS)
+3. AWS infrastructure with Terraform and an Application Load Balancer
 
----
-### **3. Docker Containerization Project (NEW)
-- Built production-grade Dockerfiles for multi-environment applications
-- Implemented Docker Compose to run multi-container apps (backend, frontend, database)
-- Optimized image size using multi-stage builds
-- Added best practices: non-root user, caching, minimal base images
-- Tested and deployed container images across local, cloud, and CI/CD systems
-👉 GitHub Repo: [DOCKERIZED-WORDPRESS-SITE](https://github.com/Tunesky34/DOCKERIZED-WORDPRESS-SITE)
- [DOCKERIZED-CONTAINER](https://github.com/Tunesky34/DOCKERIZED-CONTAINER)
+A complete network and compute layer: VPC, subnets, EC2 instances and security groups behind an ALB, provisioned through Terraform Cloud. Stack: Terraform · Terraform Cloud · AWS (VPC, EC2, ALB) 🔗 TERRAFORM-PROJECT-USING-ALB-WITH-AWS
 
+4. Docker containerisation
 
-### **4. Kubernetes Deployment of Real App**
-- Dockerized Real app  
-- Kubernetes manifests (Deployment, Service, Ingress)  
-👉 *GitHub Repo:* https://github.com/Tunesky34/Kubernetes-RealApp-Deployment
+Production-grade Dockerfiles and multi-container Compose stacks (backend, frontend, database), using multi-stage builds to cut image size, non-root users, layer caching and minimal base images. Images were tested across local, cloud and CI/CD environments. Stack: Docker · Docker Compose · WordPress 🔗 DOCKERIZED-WORDPRESS-SITE · DOCKERIZED-CONTAINER
 
----
+5. Kubernetes deployment of a real application
 
-### **5. Ansible Automation for Server Configuration (NEW)**
-- Automated installation of Docker and Nginx container using **Ansible**  
-- Supports multi-environment deployment (localhost example)  
-- Showcases configuration management, automation, and container deployment skills  
-👉 *GitHub Repo:* https://github.com/Tunesky34/ansible-nginx-deployment
+A containerised application deployed to Kubernetes with Deployment, Service and Ingress manifests. Stack: Kubernetes · Docker · Ingress 🔗 Kubernetes-RealApp-Deployment
 
-**Focus Areas**
-• CI/CD pipeline automation
-• Infrastructure as Code (Terraform)
-• Cloud infrastructure (AWS)
-• Containerization with Docker
-• Configuration management with Ansible
-• Linux system administration
+6. Ansible server configuration
 
----
+Playbooks that install Docker and run an Nginx container, with support for multiple environments (localhost example included). A compact demonstration of configuration management and repeatable provisioning. Stack: Ansible · Docker · Nginx 🔗 ansible-nginx-deployment
 
-## Certifications  
-- AWS Cloud Practitioner  
-- Docker & Kubernetes Associate  
+Certifications
+AWS Certified Cloud Practitioner
+Docker & Kubernetes Associate
+Currently
 
----
+Working as a DevOps engineer on CI/CD, container platforms and observability, and always building something new in my home lab.
 
-## Contact  
-**Email:** tunesky34@gmail.com    
-**LinkedIn:** https://www.linkedin.com/in/kareem-sodiq-460973245/  
+Get in touch
 
----
+Open to DevOps and cloud engineering roles and freelance work, including CI/CD setup, AWS and Terraform infrastructure, container migration and monitoring.
 
-© 2025 Kareem Sodiq — Built with GitHub Pages
+✉️ tunesky34@gmail.com · 💼 LinkedIn
